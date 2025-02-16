@@ -44,12 +44,21 @@ I hold a Master's in Computer Science and have a passion for pushing the boundar
 
 ## 🎉 Let's Interact!
 
-- **Visit my [Portfolio](https://yourportfolio.com) to see my projects come to life.**
-- **Check out my [Interactive Demos](https://yourdemo.com) for some cool AI experiments.**
-- **Join my live coding sessions on [Twitch](https://twitch.tv/yourchannel)!**
+<div align="center">
+  <a href="https://www.linkedin.com/in/palavirajgude/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:46palavi10@mail.fresnostate.edu">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://twitter.com/yourusername">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+</div>
 
-> **Challenge:** Try out the code snippet below and see if you can make it even cooler!
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=palxx&style=flat-square&color=blue" alt="visitor count" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=palxx&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div>
 
-```python
-import this
-print("The Zen of Python inspires my AI adventures!")
