@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Palavi! 👋
 
 ### Masters in Computer Science | Deep Learning & AI Enthusiast
 
@@ -33,9 +33,9 @@ I hold a Master's in Computer Science and have a passion for pushing the boundar
 
 ## 📫 Let's Connect
 
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/)
-- **Email:** [youremail@example.com](mailto:youremail@example.com)
-- **GitHub:** [Your GitHub Profile](https://github.com/yourusername)
+- **LinkedIn:** https://www.linkedin.com/in/palavirajgude/ (https://www.linkedin.com/)
+- **Email:** 46palavi10@mail.fresnostate.edu (mailto:youremail@example.com)
+- **GitHub:** https://github.com/palxx (https://github.com/yourusername)
 
 ---
 
