@@ -42,7 +42,7 @@ I hold a Master's in Computer Science and have a passion for pushing the boundar
 
 ---
 
-## 🎉 Let's Interact!
+## 🎉 Connect with me!
 
 <div align="center">
   <a href="https://www.linkedin.com/in/palavirajgude/">
@@ -56,9 +56,4 @@ I hold a Master's in Computer Science and have a passion for pushing the boundar
   </a>
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=palxx&style=flat-square&color=blue" alt="visitor count" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=palxx&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
 
