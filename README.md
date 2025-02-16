@@ -33,9 +33,9 @@ I hold a Master's in Computer Science and have a passion for pushing the boundar
 
 ## 📫 Let's Connect
 
-- **LinkedIn:** https://www.linkedin.com/in/palavirajgude/ (https://www.linkedin.com/)
-- **Email:** 46palavi10@mail.fresnostate.edu (mailto:youremail@example.com)
-- **GitHub:** https://github.com/palxx (https://github.com/yourusername)
+- **LinkedIn:** https://www.linkedin.com/in/palavirajgude/
+- **Email:** 46palavi10@mail.fresnostate.edu
+- **GitHub:** https://github.com/palxx
 
 ---
 
