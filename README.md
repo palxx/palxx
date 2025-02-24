@@ -10,7 +10,8 @@ I hold a Master's in Computer Science and have a passion for pushing the boundar
 
 ## 🚀 Projects & Contributions
 
-- **100 days of CUDA**
+- **100 days of CUDA** - (repo) https://github.com/palxx/_100_days_of_CUDA
+- **Robotic Arm Manipulation through Reinforcement Learning** - (repo)https://github.com/palxx/_robotic_arm_DRL
 - **Deep Learning Research:** Experimenting with various neural network architectures including CNNs, RNNs, and Transformers.
 - **Transformers & LLMs:** Building, training, and optimizing transformer-based models to solve advanced NLP tasks.
 - **Python Dev:** Crafting efficient and scalable machine learning applications with Python.
@@ -19,10 +20,10 @@ I hold a Master's in Computer Science and have a passion for pushing the boundar
 
 ## 🛠️ Skills & Technologies
 
-- **Languages:** Python, Java, C++
+- **Languages:** Python, C++, 
 - **Frameworks & Libraries:** TensorFlow, PyTorch, scikit-learn, Hugging Face Transformers
-- **Tools:** Git, Docker, Kubernetes
-- **Focus Areas:** Deep Learning, Natural Language Processing, Computer Vision, Reinforcement Learning
+- **Tools:** Git
+- **Focus Areas:** Reinforcement Learning, Deep Learning, Natural Language Processing, Computer Vision, 
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
