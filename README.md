@@ -12,10 +12,6 @@ I hold a Master's in Computer Science and have a passion for pushing the boundar
 
 - **100 days of CUDA** - (repo) https://github.com/palxx/_100_days_of_CUDA
 - **Robotic Arm Manipulation through Reinforcement Learning** - (repo)https://github.com/palxx/_robotic_arm_DRL
-- **Deep Learning Research:** Experimenting with various neural network architectures including CNNs, RNNs, and Transformers.
-- **Transformers & LLMs:** Building, training, and optimizing transformer-based models to solve advanced NLP tasks.
-- **Python Dev:** Crafting efficient and scalable machine learning applications with Python.
-
 ---
 
 ## 🛠️ Skills & Technologies
