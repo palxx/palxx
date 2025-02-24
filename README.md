@@ -10,6 +10,7 @@ I hold a Master's in Computer Science and have a passion for pushing the boundar
 
 ## 🚀 Projects & Contributions
 
+- **100 days of CUDA**
 - **Deep Learning Research:** Experimenting with various neural network architectures including CNNs, RNNs, and Transformers.
 - **Transformers & LLMs:** Building, training, and optimizing transformer-based models to solve advanced NLP tasks.
 - **Python Dev:** Crafting efficient and scalable machine learning applications with Python.
