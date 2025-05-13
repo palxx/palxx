@@ -8,7 +8,7 @@ I hold a Master's in Computer Science and have a passion for pushing the boundar
 
 ---
 
-## 🚀 Projects & Contributions
+## 🚀 Projects & Contributions -
 
 - **100 days of CUDA** - (repo) https://github.com/palxx/_100_days_of_CUDA
 - **Robotic Arm Manipulation through Reinforcement Learning** - (repo)https://github.com/palxx/_robotic_arm_DRL.
