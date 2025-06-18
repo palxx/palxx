@@ -1,4 +1,4 @@
-# Hi there, I'm Palavi! 👋.
+# Hi there, I'm Palavi! 👋
 
 <div align="center">
   <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="300" alt="Welcome GIF" />
