@@ -4,20 +4,21 @@
   <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="300" alt="Welcome GIF" />
   <h2>Masters in Computer Science | Deep Learning & AI Enthusiast</h2>
 </div>
-I hold a Master's in Computer Science and have a passion for pushing the boundaries of technology. Currently, I'm diving deep into Deep Learning, exploring Transformers and Large Language Models (LLMs) , all powered by Python and CUDA. Whether it's designing cutting-edge neural networks or fine-tuning transformer architectures, I'm always on the lookout for innovative solutions to complex problems.
-
+I hold a Master's in Computer Science and have a passion for pushing the boundaries of technology. Currently, I'm diving deep into Deep Learning, exploring Transformers and Large Language Models (LLMs) , all powered by Python and CUDA.  I like neural networks or fine-tuning transformer architectures
 ---
 
 ## 🚀 Projects & Contributions -
 
 - **100 days of CUDA** - (repo) https://github.com/palxx/_100_days_of_CUDA
 - **Robotic Arm Manipulation through Reinforcement Learning** - (repo)https://github.com/palxx/_robotic_arm_DRL.
+- **Transformer from Scratch**, **Build GPT 2**, etc
+- I love to experiment and really understand in the core od how things work.
 ---
 
 ## 🛠️ Skills & Technologies
 
 - **Languages:** Python, C++, 
-- **Frameworks & Libraries:** TensorFlow, PyTorch, scikit-learn, Hugging Face Transformers
+- **Frameworks & Libraries:** TensorFlow, PyTorch, scikit-learn, Hugging Face Transformers, Deepspeed
 - **Tools:** Git
 - **Focus Areas:** Reinforcement Learning, Deep Learning, Natural Language Processing, Computer Vision, 
 
